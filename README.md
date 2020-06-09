@@ -1,4 +1,7 @@
-# Let's Write a Python Quote Bot!
+# Hello World
+My name is Oleg.
+I`m interested in studing Python.
+I`m from Ukraine.
 
 This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com) intro to Python.
 
